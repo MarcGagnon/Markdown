@@ -8,4 +8,4 @@ Dernier paragraphe de texte, suivi d'une citation :
 
 Toujours un classique dans les tests!
 
-Test d'un [lien vers une autre page en markdown sur GitHub](https://github.com/MarcGagnon/Markdown/blob/4b62ac2deeee4fa138014cbba8e058cc5457c1ae/test.md).
+Test d'un [lien vers une autre page en markdown sur GitHub](https://github.com/MarcGagnon/Markdown/blob/4b62ac2deeee4fa138014cbba8e058cc5457c1ae/test.md#JavaScript).
